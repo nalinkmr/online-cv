@@ -13,7 +13,7 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 #Profile information
-name: Nalin Kumar
+name: Nalin Kumare
 tagline: Full Stack Developer
 pic: nalin.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
